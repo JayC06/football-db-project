@@ -1,5 +1,6 @@
 ⚽ Football Performance Database & Desktop App
 📌 Overview
+
 The project itself is a football statistics database designed to store player, team, match, and stadium data. The goal is to create an SQL-powered system alongside a desktop application, allowing users to retrieve football insights efficiently.
 
 This project is for learning - aimed at improving my skills in SQL, App Development and any other skills required along the way. I'm starting from a base of having basic SQL knowledge and absoloutely no development knowledge. The focus is not just on completing the project but on learning all the necessary skills as I go. Therefore, the structure will be fluid based on my own development but the end goal will remain the same. Finally this repository will be a **portfolio piece** helping me transition into a coding or software related career.
