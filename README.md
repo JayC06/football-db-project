@@ -9,28 +9,39 @@ This project is for learning - aimed at improving my skills in SQL, App Developm
 - SQL (MySQL/PostgreSQL) – Database management
 - Python/C#/Java – Desktop application development
 - Data Processing – CSV imports, indexing for performance
+  
 📊 Core Features
+
 - ✅ Player Data – Store player names, positions, stats
 - ✅ Performance Tracking – Goals, assists, appearances across seasons
 - ✅ Team Data – Club details, rivalries, history
 - ✅ Fixtures & Results – Match schedules, scores
 - ✅ Stadium & Attendance Info – Venue details, crowd stats
+  
 🔍 Database Schema
+
 The project uses a structured relational database with key tables:
 - Players: player_id, name, position, team_id
 - Teams: team_id, name, founded, stadium_id
 - Fixtures & Results: match_id, home_team, away_team, score
 - Player Performance: player_id, goals, assists, appearances
 - Stadiums: stadium_id, name, location, capacity
+  
 🚀 Development Plan
+
 ✔ Phase 1 – Design database schema & relationships
 ✔ Phase 2 – Populate database with football data
 ✔ Phase 3 – Optimize SQL queries for performance
 ✔ Phase 4 – Build desktop application interface
+
 🛠 Challenges & Solutions
-One challenge was efficiently importing large amounts of football data. I addressed this by using bulk inserts and indexing strategies to speed up queries.
+
+- To be updated as I go
+
 🎯 Future Improvements
-Next, I plan to:
-- Expand the database to include player transfers
-- Integrate live data via an API
-- Enhance the user interface for better interaction
+
+Post Project Launch, I plan to:
+
+- Live Updates via an API
+- Insert more historical data
+- Allow for analytics and inights
