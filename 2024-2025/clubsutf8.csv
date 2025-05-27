@@ -1,0 +1,21 @@
+﻿club_name,city,country,stadium_id,year_founded,manager_id
+Arsenal,London,England,NULL,1886,NULL
+Aston Villa,Birmingham,England,NULL,1874,NULL
+Bournemouth,Bournemouth,England,NULL,1899,NULL
+Brentford,London,England,NULL,1889,NULL
+Brighton & Hove Albion,Brighton,England,NULL,1901,NULL
+Chelsea,London,England,NULL,1905,NULL
+Crystal Palace,London,England,NULL,1905,NULL
+Everton,Liverpool,England,NULL,1878,NULL
+Fulham,London,England,NULL,1879,NULL
+Ipswich Town,Ipswich,England,NULL,1878,NULL
+Leicester City,Leicester,England,NULL,1884,NULL
+Liverpool,Liverpool,England,NULL,1892,NULL
+Manchester City,Manchester,England,NULL,1880,NULL
+Manchester United,Manchester,England,NULL,1878,NULL
+Newcastle United,Newcastle,England,NULL,1892,NULL
+Nottingham Forest,Nottingham,England,NULL,1865,NULL
+Southampton,Southampton,England,NULL,1885,NULL
+Tottenham Hotspur,London,England,NULL,1882,NULL
+West Ham United,London,England,NULL,1895,NULL
+Wolverhampton Wanderers,Wolverhampton,England,NULL,1877,NULL
